@@ -1,5 +1,9 @@
 {
     "repository_owner": "Ralane",
     "repository_name": "PlayerTags",
-    "asset_sha": "sha256:296b22b9adf584ec7ee506c9002ead9264602a35ac68d81d1c2d21d0e5b2a674"
+    "asset_sha": "sha256:f5ee16d5664cd296de71e8bc8cf6a1d7576ed69c1797e8feb2531469d64260ee",
+    "display_name": "Clan Tags",
+    "display_author": "0rangeYouGlad",
+    "discord_id": "@0rangeyouglad",
+    "display_description":"Tags for clans that display in chat and player nameplates. Appears as the 'Player Tagger' plugin in the side panel."
 }

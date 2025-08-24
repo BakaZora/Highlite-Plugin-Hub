@@ -1,5 +1,8 @@
 {
   "repository_owner": "Highl1te",
   "repository_name": "Plugins",
-  "asset_sha": "sha256:78455575f29b38c9bad583fb4725ea0f2bdde8fa5e44b5f467981d598aad5770"
+  "asset_sha": "sha256:078a44883eeae348295b6be674e929dcfdee96c801e94ba7b1a1426ddb0bb02b",
+  "display_name": "Lookup",
+  "display_author": "Highl1te",
+  "display_description": "Allows you to right click and 'Lookup' items on the HighSpell Wikipedia."
 }
